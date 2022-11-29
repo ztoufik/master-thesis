@@ -1,2 +1,1 @@
-# master
-Repo for master's thesis 2017
+# Reservoir computing impelementation based on non uniform celular automata
